@@ -20,6 +20,7 @@ source: multiple
 * `5` carrots (cut into rounds)
 * `3` baking potatoes (large) or equivalent
 * `pinch` kosher salt
+* `1/2 c` water
 
 > Most brands of baking chocolate are vegan, but make sure to double-check.
 >
@@ -27,10 +28,29 @@ source: multiple
 
 ---
 
-* sunflower oil
+* vegetable oil
+* meat
+* herbs de provence
+* black pepper
+* onion
 
-> Grease up a medium-size springform and fill in the batter.
+> Add oil to dutch oven and warm. Cube the beef into 1" chunks, removing any extra fatty pieces. Brown the meat, adding spices when browning nearly complete (so only warm the spices for ~1 minute or so. Add chopped onion to get slight browning/glaze.
 
 ---
 
-> Preheat your oven to `180 °C` and bake for `35-40 minutes`.
+* tomato paste
+* red wine vinegar
+* worchestershire sauce
+* red wine
+
+> Add the liquid ingredients to the dutch oven. Deglaze for `10 to 20 mintues`.
+
+---
+
+* bay leaves
+* water
+* carrots
+* potatoes
+* salt
+
+> When liquid is reduced, but not too much, add water and remaining ingredients. Then simmer for `1.5 hours`. Skim broth from time to time (removing excess rendered fat that floats to the top).
