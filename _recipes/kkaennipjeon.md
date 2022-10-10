@@ -1,5 +1,5 @@
 ---
-title: Pan-Fried Perilla Leaves
+title: Pan-Fried Perilla Leaves for Lily
 original_title: 깻잎전
 category: Korean Food
 description: Perilla leaves, stuffed with a pork-based filling, then eggwashed and fried.
